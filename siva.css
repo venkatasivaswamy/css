@@ -1,0 +1,66 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2017/01/31/15/37/evergreen-2025158_1280.png);
+    background-repeat:no-repeat ;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+}
+.cat-house-2 {
+    padding-left: 40px;
+}
+
+.cat-tri {
+    padding-left: 10px;
+}
+
+.tri-1 {
+    width: 0px;
+    height: 0px;
+    border-left: 120px solid transparent;
+    border-right: 120px solid transparent;
+    border-bottom: 100px solid yellow;
+}
+
+.square-1 {
+    height: 180px;
+    width: 180px;
+    background-color: white;
+}
+
+.cat-pic {
+    height: 180px;
+}
+
+.cat-house {
+    padding-left: 10px;
+    padding-top: 370px;
+}
+
+.tri-2 {
+    width: 0px;
+    height: 0px;
+    border-left: 140px solid transparent;
+    border-right: 140px solid transparent;
+    border-bottom: 120px solid yellow;
+}
+
+.square-2 {
+    height: 200px;
+    width: 200px;
+    background-color: white;
+}
+
+.dog-pic {
+    height: 180px;
+}
+
+.dog-house {
+    padding-left: 200px;
+    padding-top: 330px;
+}
+
+.dog-house-2 {
+    padding-left: 40px;
+}
